@@ -18,9 +18,8 @@ This project supports:
 
 ## 🧪 Example Output
 
-<p align="center">
-  <img src="results/example_cgr_plot.png" alt="CGR Example" width="500"/>
-</p>
+![image](https://github.com/user-attachments/assets/5793e97a-fc1c-47e7-a51c-95d6f66250b9)
+
 
 ---
 
